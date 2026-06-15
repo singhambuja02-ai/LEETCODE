@@ -6,6 +6,7 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+ // linled list
 class Solution {
 public:
     bool hasCycle(ListNode *head) {

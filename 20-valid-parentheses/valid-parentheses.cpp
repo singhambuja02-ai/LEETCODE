@@ -2,6 +2,7 @@
 
 class Solution {
 public:
+// valid parentheses
     bool isValid(std::string s) {
         std::stack<char> st;
         
